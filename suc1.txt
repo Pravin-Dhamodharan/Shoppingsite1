@@ -1,0 +1,6 @@
+﻿<!DOCTYPE html>
+<head>
+<body>
+<center><h2>Your Account has been Created Sucessfully</h2></center>
+</body>
+</head>
